@@ -1,0 +1,12 @@
+<resources>
+    <string name="CDADS_PARTNER_ID">7d95de69cfc7cc03c3a05b4fde9662b8</string>
+    <string name="CDADS_BUNDLE_ID">com.pandora.android</string>
+    <string name="CDADS_CAT">IAB1-6</string>
+    <string name="SERVER_URL">https://e.cmcd1.com</string>
+    <string name="SERVER_PATH">/cmsdk</string>
+    <string name="VPAID_SOURCE_URL">https://s3.amazonaws.com/chalkiosapp/vpaid/vpaid_2.0/sdk_vpaid_html_2.0.html</string>
+    <string name="CDADS_DEBUG_URL"> https://ds.chalkdigital.com/debug</string>
+
+    <string name="app_name">CDAdsSample</string>
+    <string name="title_activity_settings">Settings</string>
+</resources>

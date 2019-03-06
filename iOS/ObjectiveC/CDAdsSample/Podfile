@@ -1,0 +1,7 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'CDAdsSample' do
+# Uncomment the next line to build project
+pod 'Chalkdigital-Mobile-Ads-SDK'
+end

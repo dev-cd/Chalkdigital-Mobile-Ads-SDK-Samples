@@ -1,0 +1,2 @@
+rootProject.name = 'CDAdsSample-Android'
+include ':cdads-sample', ':cdads-sdk'

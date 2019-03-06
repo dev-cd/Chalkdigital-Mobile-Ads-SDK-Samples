@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CDAdsSample-Android.iml" filepath="$PROJECT_DIR$/CDAdsSample-Android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cdads-sample/cdads-sample.iml" filepath="$PROJECT_DIR$/cdads-sample/cdads-sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cdads-sdk/cdads-sdk.iml" filepath="$PROJECT_DIR$/cdads-sdk/cdads-sdk.iml" />
+    </modules>
+  </component>
+</project>
