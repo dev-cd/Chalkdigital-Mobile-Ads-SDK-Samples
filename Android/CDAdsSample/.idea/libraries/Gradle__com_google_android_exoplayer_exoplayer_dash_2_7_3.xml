@@ -1,11 +1,11 @@
 <component name="libraryTable">
   <library name="Gradle: com.google.android.exoplayer:exoplayer-dash-2.7.3">
     <ANNOTATIONS>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/exoplayer-dash-2.7.3.aar/8e4ddb3dd671ea903a9213ef6fdc8f0a/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/exoplayer-dash-2.7.3.aar/15f6e193b362629455530a1e5595cebd/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/exoplayer-dash-2.7.3.aar/8e4ddb3dd671ea903a9213ef6fdc8f0a/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/exoplayer-dash-2.7.3.aar/8e4ddb3dd671ea903a9213ef6fdc8f0a/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/exoplayer-dash-2.7.3.aar/15f6e193b362629455530a1e5595cebd/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/exoplayer-dash-2.7.3.aar/15f6e193b362629455530a1e5595cebd/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <LIBRARY_FILE />
